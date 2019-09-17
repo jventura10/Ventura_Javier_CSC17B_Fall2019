@@ -216,23 +216,3 @@ document.getElementById("demo").style.fontSize="40px";
 document.getElementById("demo").style.display="none";
 	
 document.getElementById("btnDemo").addEventListener("click",myFunction);
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
